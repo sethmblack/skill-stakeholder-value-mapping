@@ -3,8 +3,8 @@ name: stakeholder-value-mapping
 description: Map all stakeholders, define value propositions for each, identify synergies, and create accountability through measurement.
 license: MIT
 metadata:
-  version: 1.0.5044
   author: sethmblack
+  version: 1.0.5045
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - stakeholder-value-mapping
